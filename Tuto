@@ -1,0 +1,6 @@
+Spring Security:
+
+Core Concepts:
+1. Authentication  - prove your identity
+2. Authorization   - Your role to access the specific resource
+3. Servlet Filters
